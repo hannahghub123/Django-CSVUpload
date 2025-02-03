@@ -1,0 +1,8 @@
+name,email,age
+John Doe,john.doe@example.com,30
+Jane Doe,jane.doe@example.com,25
+Alice Smith,alice.smith@example.com,40
+Bob Johnson,bob.johnson@example.com,18
+Invalid User,invalid_email,130
+,missing.name@example.com,45
+Duplicate Email,john.doe@example.com,35
